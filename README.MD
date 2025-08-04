@@ -4,9 +4,11 @@
 Library Management
 
 ## 📚 Entities (Tables):
-1. Student
-2. Book
-3. Issue
+1. Author
+2. publisher
+3. Genre
+4.Member
+5.Loan
 
 ## 🔗 Relationships:
 - One student can issue many books
@@ -25,4 +27,5 @@ Library Management
 ✔ Created a well-structured schema  
 ✔ Defined primary and foreign keys  
 ✔ Designed ER diagram  
+
 ✔ Organized and submitted files via GitHub
